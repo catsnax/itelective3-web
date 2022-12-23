@@ -10,7 +10,7 @@ FRAMEWORKS ASSOCIATED WITH THE PROJECT: **Lavarel +  Breeze + Vue + MySQL**
 
 NAME OF THE SYSTEM:  **Order System**
 
-# PURPOSE OF THE SYSTEM:
+# PURPOSE OF THE SYSTEM
 
 The order system is a collection made up of five subsystems whose primary aim is to facilitate the ordering process between the establishment and the customer which is represented by two entities: The Customer Service Rep Entity and The Cusomer Entity. Three of these subsystems are software subsystems that give different abilities to both entities in order for a purchase to go smoothly and be successful. On the other hand, the two remaining subsystems don't include software but are still key to the order system.
 
