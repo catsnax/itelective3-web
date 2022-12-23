@@ -6,9 +6,9 @@ itelective3-web
 
 ## Local Government Unit - Bukidnon
 
-### FRAMEWORKS ASSOCIATED WITH THE PROJECT **Lavarel +  Breeze + Vue + MySQL**
+FRAMEWORKS ASSOCIATED WITH THE PROJECT **Lavarel +  Breeze + Vue + MySQL**
 
-## NAME OF THE SYSTEM:  **Order System**
+NAME OF THE SYSTEM:  **Order System**
 
 # PURPOSE OF THE SYSTEM:
 
