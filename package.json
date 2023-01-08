@@ -1,0 +1,22 @@
+{
+  "name": "itelective3-web",
+  "version": "1.0.0",
+  "description": "itelective3-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catsnax/itelective3-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catsnax/itelective3-web/issues"
+  },
+  "homepage": "https://github.com/catsnax/itelective3-web#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
